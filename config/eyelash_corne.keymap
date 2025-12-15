@@ -73,7 +73,7 @@
                          &mo 1  &kp LGUI  &lt 3 SPACE                                               &lt 3 ENTER  &mo 1  &kp RALT
             >;
 
-             sensor-bindings = <&inc_dec_msc SCRL_DOWN SCRL_UP>;
+             sensor-bindings = <&inc_dec_kp PAGE_DOWN PAGE_UP>;
         };
 
         lower_layer {
